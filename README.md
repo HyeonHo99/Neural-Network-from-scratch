@@ -1,11 +1,11 @@
 # Neural-Network-from-scratch
 Numpy implementation of Deep Neural Network (MLP, Convolution) (without using ML/DL libraries) <br>
-<b>Implemented Layers</b><br>
+#### Implemented Layers
 ✔️ Fully Connected Layer (MLP) <br>
 ✔️ Convolution Layer (Conv2D) <br>
 ✔️ MaxPooling Layer <br>
-✔️ Softmax Layer <br>
-<b>Implemented Activations</b><br>
+✔️ Softmax Layer <br><br>
+#### Implemented Activations
 ✔️ Softmax <br>
 ✔️ ReLU <br>
 ✔️ Sigmoid <br>
