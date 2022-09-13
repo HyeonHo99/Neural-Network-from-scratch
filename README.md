@@ -4,7 +4,7 @@ Numpy implementation of Deep Neural Network (MLP, Convolution) (without using ML
 ✔️ Fully Connected Layer (MLP) <br>
 ✔️ Convolution Layer (Conv2D) <br>
 ✔️ MaxPooling Layer <br>
-✔️ Softmax Layer <br><br>
+✔️ Softmax Layer <br>
 #### Implemented Activations
 ✔️ Softmax <br>
 ✔️ ReLU <br>
